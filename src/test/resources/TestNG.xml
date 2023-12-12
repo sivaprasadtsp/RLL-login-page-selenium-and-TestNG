@@ -1,0 +1,10 @@
+<suite name="test1" verbose="1">
+	<listeners>
+        <listener class-name="base.ExtendReportsDemo"/>
+    </listeners>
+	<test name="TestCycle1">
+<classes>
+<class name="com.demo.loginmrs.com.LoginpageTest"></class>
+</classes>
+</test>
+</suite>
